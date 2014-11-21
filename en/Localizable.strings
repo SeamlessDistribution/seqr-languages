@@ -1,0 +1,945 @@
+
+/*Testing the comments...*/
+/*For the ui bla bla
+*/
+"ios_amount_plus_currency_format" = "%1$@ %2$@";
+
+/*iOS account manager titlebar.*/
+"ios_account_manager_title" = "Accounts";
+
+/*No comment provided by engineer.*/
+"sms_code_placeholder" = "SMS code";
+
+/*iOS wizard titlebar.*/
+"ios_sms_code_title" = "SMS Code";
+
+/*No comment provided by engineer.*/
+"activate_text" = "You will shortly receive an SMS from SEQR with a code. Enter the code to connect the mobile to SEQR.";
+
+/*iOS loader for activation.*/
+"ios_activating_loader" = "Activating…";
+
+/*No comment provided by engineer.*/
+"p2p_recipient_label" = "To";
+
+/*iOS authrorize titlebar.*/
+"ios_authorization_title" = "Authorize";
+
+/*iOS loader for authorization.*/
+"ios_authorizing_loader" = "Authorizing…";
+
+/*iOS specific error text when failing to open the camera.*/
+"ios_inigma_camera_in_use_error" = "Unable to allocate the camera.";
+
+/*No comment provided by engineer.*/
+"cancel_button_title" = "Cancel";
+
+/*No comment provided by engineer.*/
+"select_pin_prompt" = "Select a PIN code:";
+
+/*iOS specific error text when failing to open the camera with an unknown error.*/
+"ios_inigma_code_invalid_error" = "Invalid code.";
+
+/*iOS specific error text when failing with an unsupported error.*/
+"ios_inigma_code_not_supported_error" = "Unsupported code.";
+
+/*TODO: Potential match with Android. No comment provided by engineer.*/
+"ios_confirm_payment_button_title" = "Confirm Payment";
+
+/*No comment provided by engineer.*/
+"continue_button_title" = "Continue";
+
+/*TODO: Potential match with Android. No comment provided by engineer.*/
+"ios_dismiss_button_title" = "Dismiss";
+
+/*TODO: No comment provided by engineer.*/
+"ios_dismiss_transaction_button_title" = "Dismiss Transaction";
+
+/*TODO: No comment provided by engineer.*/
+"ios_dismiss_transaction_text" = "Warning: The transaction cannot be revoked. It may still go through, in which case it'll show in Receipts.";
+
+/*No comment provided by engineer.*/
+"deregister_button_title" = "Deregister";
+
+/*No comment provided by engineer.*/
+"ios_deregister_loader" = "Deregistering…";
+
+/*iOS specific error text for mail support.*/
+"ios_debug_mail_not_configured_text" = "The mobile phone is not configured to send mail";
+
+/*No comment provided by engineer.*/
+"deregister_alert_title" = "Do you want to deregister?";
+
+/*iOS confirm PIN prompt text.*/
+"ios_confirm_with_pin_prompt" = "Enter your PIN code";
+
+/*iOS lookup receiver loader.*/
+"ios_lookup_receiver_loader" = "Finding receiver…";
+
+/*iOS receipt incoming P2P format.*/
+"ios_receipt_incoming_p2p_format" = "From: %@";
+
+/*iOS inigma general error text.*/
+"ios_inigma_general_error" = "General error.";
+
+/*No comment provided by engineer.*/
+"deregister_alert_message" = "If you deregister the mobile phone, you cannot use SEQR until you register again. You will keep your accounts";
+
+/*HERE!!! 
+ No comment provided by engineer.*/
+"pin_selector_mismatch_error" = "The two PIN codes do not match.";
+
+/*No comment provided by engineer.*/
+"ios_receipts_last_updated_format" = "Last Updated: %@";
+
+/*No comment provided by engineer.*/
+"ios_inigma_license_error" = "Scanner license error.";
+
+/*No comment provided by engineer.*/
+"loading_loader" = "Loading…";
+
+/*No comment provided by engineer.*/
+"ios_log_title" = "Log";
+
+/*No comment provided by engineer.*/
+"optional_p2p_message_placeholder_label" = "Message (optional)";
+
+/*No comment provided by engineer.*/
+"ios_not_a_valid_seqr_code" = "Not a valid SEQR code.";
+
+/*No comment provided by engineer.*/
+"ios_not_an_auth_seqr_code" = "Not the right type of SEQR code.";
+
+/*Alert button*/
+"ok_button_label" = "OK";
+
+/*No comment provided by engineer.*/
+"pay_title" = "Pay";
+
+/*No comment provided by engineer.*/
+"ios_paying_loader" = "Paying…";
+
+/*No comment provided by engineer.*/
+"ios_paymentbroker_connection_error_baddata_desc" = "A communication error occured";
+
+/*No comment provided by engineer.*/
+"ios_paymentbroker_connection_error_baddata_sugg" = "If the error persists, please contact our customer support";
+
+/*No comment provided by engineer.*/
+"ios_socketstream_closedremotely_error_desc" = "A communication error occured";
+
+/*No comment provided by engineer.*/
+"ios_socketstream_closedremotely_error_sugg" = "Check that you have internet connectivity and try again";
+
+/*No comment provided by engineer.*/
+"ios_socketstream_general_error_desc" = "A communication error occured";
+
+/*No comment provided by engineer.*/
+"ios_socketstream_general_error_sugg" = "Check that you have internet connectivity and try again";
+
+/*No comment provided by engineer.*/
+"ios_pboperation_timeout_error_desc" = "A communication error occured";
+
+/*No comment provided by engineer.*/
+"ios_pboperation_timeout_error_sugg" = "Check that you have internet connectivity and try again";
+
+/*No comment provided by engineer.*/
+"ios_paymentbroker_connection_error_timeout_desc" = "A timeout error occured";
+
+/*No comment provided by engineer.*/
+"ios_paymentbroker_connection_error_timeout_sugg" = "Check that you have internet connectivity and try again";
+
+/*No comment provided by engineer.*/
+"ios_socketstream_error_timeout_desc" = "A timeout error occured";
+
+/*No comment provided by engineer.*/
+"ios_socketstream_error_timeout_sugg" = "Check that you have internet connectivity and try again";
+
+/*No comment provided by engineer.*/
+"phone_number_placeholder_label" = "Mobile number";
+
+/*No comment provided by engineer.*/
+"ios_queue_title" = "Queue";
+
+/*No comment provided by engineer.*/
+"receipt_title" = "Receipt";
+
+/*No comment provided by engineer.*/
+"receipts_title" = "Receipts";
+
+/*No comment provided by engineer.*/
+"title_registration_phone_form" = "Enter mobile phone number (including country code)";
+
+/*prompt text registration screen*/
+"title_registration_phone_personnummer_form" = "Enter mobile phone number (including country code) and personal identity number";
+
+/*No comment provided by engineer.*/
+"ios_register_loader" = "Registering…";
+
+/*No comment provided by engineer.*/
+"ios_getting_invoice_brief_loader" = "Requesting Amount…";
+
+/*No comment provided by engineer.*/
+"ios_send_p2p_button_title" = "Send";
+
+/*No comment provided by engineer.*/
+"ios_send_p2p_confirm_title" = "Send";
+
+/*No comment provided by engineer.*/
+"send_money_title" = "Send Money";
+
+/*No comment provided by engineer.*/
+"ios_sending_money_loader" = "Sending money…";
+
+/*No comment provided by engineer.*/
+"server_title" = "Server";
+
+/*No comment provided by engineer.*/
+"msg_manage_accounts" = "Accounts";
+
+/*No comment provided by engineer.*/
+"ios_to_and_format" = "To: %@";
+
+/*No comment provided by engineer.*/
+"button_retry" = "Try Again";
+
+/*No comment provided by engineer.*/
+"ios_restarting" = "Restarting…";
+
+/*No comment provided by engineer.*/
+"clearing_number_placeholder" = "Clearing number";
+
+/*No comment provided by engineer.*/
+"account_number_placeholder" = "Account number";
+
+/*No comment provided by engineer.*/
+"invalid_clearingnr_desc" = "Incorrect clearing number";
+
+/*No comment provided by engineer.*/
+"invalid_clearingnr_sugg" = "Clearing numbers are usually 4 (sometimes 5) digits long and the number must match the selected bank.";
+
+/*No comment provided by engineer.*/
+"uitextfield_validate_activation_code_desc" = "Incorrect activation code.";
+
+/*No comment provided by engineer.*/
+"uitextfield_validate_activation_code_sugg" = "Enter the received activation code that is up to 4-10 digits long.";
+
+/*No comment provided by engineer.*/
+"invalid_accountnr_desc" = "Invalid account number.";
+
+/*No comment provided by engineer.*/
+"invalid_accountnr_sugg" = "Enter the account number that is 1 to 27 digits long";
+
+/*No comment provided by engineer.*/
+"invalid_amount_format_desc" = "Invalid amount";
+
+/*No comment provided by engineer.*/
+"invalid_amount_format_sugg" = "Enter a correct amount.";
+
+/*No comment provided by engineer.*/
+"invalid_person_no_desc" = "Invalid personal number.";
+
+/*No comment provided by engineer.*/
+"invalid_person_no_sugg" = "Enter your personal number in the format yyyymmddnnnn.";
+
+/*No comment provided by engineer.*/
+"invalid_person_no_sugg_sweden" = "Enter your personal number in the format yyyymmddnnnn.";
+
+/*No comment provided by engineer.*/
+"invalid_person_no_sugg_finland" = "Enter your personal number in the format ddmmyycnnnc.";
+
+/*No comment provided by engineer.*/
+"invalid_phone_desc" = "Invalid phone number";
+
+/*No comment provided by engineer.*/
+"ios_uitextfield_validate_error_phone_sugg" = "Enter the mobile phone number.";
+
+/*No comment provided by engineer.*/
+"ios_uitextfield_validate_error_pin_desc" = "Invalid PIN.";
+
+/*No comment provided by engineer.*/
+"ios_uitextfield_validate_error_pin_sugg" = "Enter a PIN code that is 4 digits long.";
+
+/*No comment provided by engineer.*/
+"ios_unknown_error" = "Unknown error.";
+
+/*No comment provided by engineer.*/
+"payment_completed_message" = "Payment completed.";
+
+/*No comment provided by engineer.*/
+"transfer_completed_message" = "Your money has been sent.";
+
+/*No comment provided by engineer.*/
+"ios_build_time" = "Build Time";
+
+/*No comment provided by engineer.*/
+"ios_load_receipt_generic_error" = "Could not load receipt.\n\nTry again later.";
+
+/*No comment provided by engineer.*/
+"ios_load_receipt_connectivity_error" = "Could not load receipt.\nCheck internet connectivity and try again.";
+
+/*No comment provided by engineer.*/
+"ios_authorization_polling_for_network" = "Waiting for Network…";
+
+/*No comment provided by engineer.*/
+"ios_invoice_brief_polling_for_network" = "Waiting for Network…";
+
+/*No comment provided by engineer.*/
+"ios_invoice_brief_polling_for_invoice" = "Waiting for Amount…";
+
+/*No comment provided by engineer.*/
+"ios_starting_camera" = "Starting Camera…";
+
+/*No comment provided by engineer.*/
+"ios_scan_button_label" = "Tap here\nto scan";
+
+/*No comment provided by engineer.*/
+"welcome_text" = "Pay with your mobile.\nFast. Easy. Secure.";
+
+/*No comment provided by engineer.*/
+"ios_register_payment_account_header" = "SEQR Invoice Account from Collector";
+
+/*No comment provided by engineer.*/
+"label_payment_accounts" = "Payment Accounts";
+
+/*No comment provided by engineer.*/
+"label_receiving_accounts" = "Receiver Accounts";
+
+/*Header title for loyalty accounts*/
+"label_loyalty_accounts" = "Loyalty Accounts";
+
+/*No comment provided by engineer.*/
+"button_send_to_new_recipient" = "Send to New Recipient";
+
+/*No comment provided by engineer.*/
+"msg_receiver_not_having_receiving_account" = "The recipient is in SEQR, but can not yet receive money. Do you want to be notified when he/she can receive money?";
+
+/*No comment provided by engineer.*/
+"msg_receiver_not_found" = "The recipient is not in SEQR. Do you want to invite the recipient to SEQR, and be notified when he/she can receive money?";
+
+/*No comment provided by engineer.*/
+"creating_notification_loader" = "Registering…";
+
+/*No comment provided by engineer.*/
+"ios_creating_invitation_and_notification_loader" = "Inviting…";
+
+/*No comment provided by engineer.*/
+"button_invite_and_notify" = "Invite and Notify";
+
+/*No comment provided by engineer.*/
+"button_notify" = "Notify";
+
+/*No comment provided by engineer.*/
+"register_payment_account_description" = "Enjoy convenient shopping with a SEQR Invoice Account from Collector. It is completely free. All your purchases are collected on a monthly bill, sent to you by mail.\n\nA credit check will be done.";
+
+/*No comment provided by engineer.*/
+"text_account_pending" = "Account is pending";
+
+/*No comment provided by engineer.*/
+"text_account_blocked" = "Account is blocked";
+
+/*No comment provided by engineer.*/
+"text_account_invalid" = "Account invalid";
+
+/*No comment provided by engineer.*/
+"text_updating" = "Updating…";
+
+/*No comment provided by engineer.*/
+"p2p_amount_label" = "Send";
+
+/*No comment provided by engineer.*/
+"ios_about_seqr" = "About SEQR";
+
+/*No comment provided by engineer.*/
+"ios_version" = "Version";
+
+/*No comment provided by engineer.*/
+"ios_debugging" = "Debugging";
+
+/*No comment provided by engineer.*/
+"ios_force_crash" = "Force Crash";
+
+/*No comment provided by engineer.*/
+"pin_code" = "PIN Code";
+
+/*No comment provided by engineer.*/
+"ios_pin" = "PIN";
+
+/*No comment provided by engineer.*/
+"ios_pin_prompt" = "PIN code (4 digits)";
+
+/*No comment provided by engineer.*/
+"pin_repeat_prompt" = "Repeat the PIN code";
+
+/*No comment provided by engineer.*/
+"pin_length_error" = "The PIN code must be 4 digits long.";
+
+/*No comment provided by engineer.*/
+"ios_phone_title" = "Mobile Number";
+
+/*Title text for registration screen with Mobile number and personnummer*/
+"ios_phone_personnummer_title" = "Mobile & Personal number";
+
+/*No comment provided by engineer.*/
+"ios_phone_short_title" = "Mobile";
+
+/*No comment provided by engineer.*/
+"ios_device_blocked" = "This phone is blocked in SEQR. \nPlease re-register the phone.";
+"ios_device_blocked_part1" = "This phone is\nblocked in SEQR.";
+
+/*No comment provided by engineer.*/
+"ios_device_blocked_part2" = "Please re-register the phone.";
+
+/*No comment provided by engineer.*/
+"ios_device_unauthorized" = "Do you have a new phone?\n\nTo prevent unauthorized access, we require that you register this phone.\n\nVisit SEQR.se/newdevice to learn more.";
+
+/*No comment provided by engineer.*/
+"ios_reregister_button_title" = "Re-register";
+
+/*No comment provided by engineer.*/
+"ios_learn_more" = "About SEQR";
+
+/*No comment provided by engineer.*/
+"ios_contact_support" = "Contact customer service";
+
+/*No comment provided by engineer.*/
+"ios_wizard_completed_title" = "Done";
+
+/*No comment provided by engineer.*/
+"wizard_completed_header" = "Welcome to SEQR!";
+
+/*No comment provided by engineer.*/
+"wizard_completed_text" = "You are now ready to receive money with SEQR.";
+
+/*No comment provided by engineer.*/
+"button_start_seqr" = "Start using SEQR";
+
+/*No comment provided by engineer.*/
+"where_can_i_buy" = "Where can I shop with SEQR?";
+
+/*No comment provided by engineer.*/
+"button_not_now" = "Not Now";
+
+/*No comment provided by engineer.*/
+"no_bankid_error_desc" = "Mobile BankID not installed";
+
+/*No comment provided by engineer.*/
+"no_bankid_error_sugg" = "Either install Mobile BankID or try a different method of identification.";
+
+/*No comment provided by engineer.*/
+"register_receiver_account_header" = "Add a Receiver Account?";
+
+/*No comment provided by engineer.*/
+"register_receiver_account_description" = "With a receiver account you can receive money from other SEQR users.";
+
+/*No comment provided by engineer.*/
+"payment_account_done_accepted_title" = "Approved";
+
+/*No comment provided by engineer.*/
+"payment_account_done_denied_title" = "Not Approved";
+
+/*No comment provided by engineer.*/
+"apply_for_payment_account_title" = "Get a Payment Account";
+
+/*No comment provided by engineer.*/
+"ios_add_payment_account_short_title" = "Get";
+
+/*No comment provided by engineer.*/
+"ios_add_account_button_title" = "Add Account";
+
+/*No comment provided by engineer.*/
+"ios_identification_title" = "Identification";
+
+/*No comment provided by engineer.*/
+"ios_payment_account_apply_btn_title" = "Continue";
+
+/*No comment provided by engineer.*/
+"bank_account_details_prompt" = "Your bank account details:";
+
+/*No comment provided by engineer.*/
+"account_details_title" = "Account Details";
+
+/*No comment provided by engineer.*/
+"text_apply_receiving_account" = "Add Receiver Account";
+
+/*No comment provided by engineer.*/
+"ios_add_receiver_account_short_title" = "Add";
+
+/*No comment provided by engineer.*/
+"ios_receiver_account_title" = "Add Receiver Account";
+
+/*No comment provided by engineer.*/
+"ios_receiver_account_short_title" = "Add";
+
+/*No comment provided by engineer.*/
+"authorization_completed_message" = "Done";
+
+/*No comment provided by engineer.*/
+"done_button_title" = "Done";
+
+/*No comment provided by engineer.*/
+"cancel_payment_account_message" = "You cannot pay unless you have a payment account.";
+
+/*No comment provided by engineer.*/
+"cancel_payment_account_destructive_button_title" = "Get Later";
+
+/*No comment provided by engineer.*/
+"person_id_placeholder_sweden" = "yyyymmddnnnn";
+
+/*No comment provided by engineer.*/
+"person_id_placeholder_finland" = "ddmmyynnnnn";
+
+/*No comment provided by engineer.*/
+"ios_add_person_id_title" = "Personal Number";
+
+/*No comment provided by engineer.*/
+"ios_add_person_id_short_title" = "ID";
+
+/*No comment provided by engineer.*/
+"add_person_id_text" = "Enter your personal number:";
+
+/*No comment provided by engineer.*/
+"ios_authorization_required_button_label" = "Restore your accounts on SEQR.se";
+
+/*No comment provided by engineer.*/
+"ios_authorization_required_title" = "Restore";
+
+/*No comment provided by engineer.*/
+"authorization_required_header" = "Restore your Accounts";
+
+/*No comment provided by engineer.*/
+"authorization_required_text" = "You/'ve used SEQR in the past. Please visit SEQR.se from a computer to restore your accounts.";
+
+/*No comment provided by engineer.*/
+"ios_account_application_denied_header" = "Thanks for Applying";
+
+/*No comment provided by engineer.*/
+"ios_account_application_denied_text" = "Unfortunately, you are currently not eligible for an invoice account. If you think this is in error, please contact our customer support.";
+
+/*No comment provided by engineer.*/
+"select_id_method_prompt" = "Select method of identification:";
+
+/*No comment provided by engineer.*/
+"id_type_mobile_bankid" = "Mobile BankID";
+
+/*No comment provided by engineer.*/
+"id_type_bankid" = "eID";
+
+/*No comment provided by engineer.*/
+"id_desc_bankid" = "Recommended if you use eID on your computer.";
+
+/*No comment provided by engineer.*/
+"id_desk_mobile_bankid" = "Recommended if you use Mobile BankID on your phone.";
+
+/*No comment provided by engineer.*/
+"id_type_registered_residence" = "Send Letter";
+
+/*No comment provided by engineer.*/
+"text_send_letters_description" = "In 1-2 days you'll receive a letter to your registered residence with an activation code.";
+
+/*No comment provided by engineer.*/
+"ios_applying_loader" = "Applying…";
+
+/*No comment provided by engineer.*/
+"ios_adding_loader" = "Adding…";
+
+/*No comment provided by engineer.*/
+"ios_preparing_loader" = "Preparing…";
+
+/*No comment provided by engineer.*/
+"ios_waiting_for_bankid_loader" = "Waiting for BankID…";
+
+/*No comment provided by engineer.*/
+"other_bank" = "Other Bank";
+
+/*No comment provided by engineer.*/
+"ios_sample_p2p_message" = "Thank you for the loan!";
+
+/*No comment provided by engineer.*/
+"no_recipients_placeholder" = "No Recipients";
+
+/*No comment provided by engineer.*/
+"no_receipts_placeholder" = "No Receipts";
+
+/*No comment provided by engineer.*/
+"remove_account_message" = "Are you sure you want to remove the account?";
+
+/*No comment provided by engineer.*/
+"remove_account_destructive_button_title" = "Remove";
+
+/*No comment provided by engineer.*/
+"ios_account_name_label" = "Name";
+
+/*No comment provided by engineer.*/
+"account_number_label" = "Account number";
+
+/*No comment provided by engineer.*/
+"remove_account_button_title" = "Remove Account";
+
+/*No comment provided by engineer.*/
+"ios_removing_loader" = "Removing…";
+
+/*No comment provided by engineer.*/
+"ios_desktop_bankid_pre_info_title" = "eID";
+
+/*No comment provided by engineer.*/
+"desktop_bankid_scan_button_title" = "Scan";
+
+/*No comment provided by engineer.*/
+"register_bankid_header_text" = "Log in";
+
+/*No comment provided by engineer.*/
+"register_bank_id_description_text" = "Go to SEQR.SE/GO with your computer.\n\nTo log in, tap Scan when you see the SEQR code.";
+
+/*No comment provided by engineer.*/
+"ios_desktop_bankid_post_info_title" = "eID";
+
+/*No comment provided by engineer.*/
+"ios_desktop_bankid_done_button_title" = "Done";
+
+/*No comment provided by engineer.*/
+"bankid_done_header_text" = "Congratulations!";
+
+/*No comment provided by engineer.*/
+"bankid_done_body_text" = "You now have a payment account and can shop using the app. To receive money, add a receiver account.";
+
+/*No comment provided by engineer.*/
+"bankid_wait_progress_text" = "Waiting…";
+
+/*No comment provided by engineer.*/
+"bankid_wait_header_text" = "You are now logged in";
+
+/*No comment provided by engineer.*/
+"bankid_wait_body_text" = "Follow the instructions on your computer to complete the identification using eID.";
+
+/*No comment provided by engineer.*/
+"desktop_bankid_other_method_button_title" = "Use other method of identification";
+
+/*No comment provided by engineer.*/
+"ios_settings_title" = "Menu";
+
+/*No comment provided by engineer.*/
+"ios_syncing_accounts_label" = "Updating Accounts…";
+
+/*No comment provided by engineer.*/
+"offers_title" = "Offers";
+
+/*No comment provided by engineer.*/
+"no_payment_account_alert_title" = "No Payment Account";
+
+/*No comment provided by engineer.*/
+"no_payment_account_alert_message" = "Get a payment account to pay with SEQR.";
+
+/*No comment provided by engineer.*/
+"no_loyalty_account_alert_title" = "Add loyalty account";
+
+/*No comment provided by engineer.*/
+"no_loyalty_account_alert_message" = "Use your loyalty account next time you pay to add it to SEQR.";
+
+/*No comment provided by engineer.*/
+"no_p2p_account_alert_title" = "No Payment Account";
+
+/*No comment provided by engineer.*/
+"account_blocked_alert_title" = "Your account is blocked";
+
+/*No comment provided by engineer.*/
+"no_p2p_account_alert_message" = "Get a payment account to send money with SEQR.";
+
+/*No comment provided by engineer.*/
+"account_blocked_alert_message" = "Contact the account provider for more information.";
+
+/*No comment provided by engineer.*/
+"account_blocked_description" = "Account Blocked";
+
+/*No comment provided by engineer.*/
+"account_pending_description" = "Account Pending";
+
+/*No comment provided by engineer.*/
+"ios_no_payment_account_alert_cancel_button_title" = "OK";
+
+/*No comment provided by engineer.*/
+"loading_offer" = "Loading Offer…";
+
+/*No comment provided by engineer.*/
+"no_offers_placeholder" = "Current offers";
+
+/*No comment provided by engineer.*/
+"cannot_load_offer" = "Cannot show image.\nTap to show offer.";
+
+/*No comment provided by engineer.*/
+"ios_receipt_pdf_filename" = "receipt.pdf";
+
+/*No comment provided by engineer.*/
+"transaction_completed_offer_label" = "Tap the offer to read more:";
+
+/*No comment provided by engineer.*/
+"disagree_button_title" = "I Disagree";
+
+/*No comment provided by engineer.*/
+"agree_button_title" = "I Agree";
+
+/*No comment provided by engineer.*/
+"updated_terms_confirm_text" = "We have updated the Terms of Service. Tap I Agree to continue.";
+
+/*No comment provided by engineer.*/
+"agree_checkboxview_title" = "I agree to the Terms of Service.";
+
+/*No comment provided by engineer.*/
+"agree_to_continue_text" = "Agree to the Terms of Service in order to continue.";
+
+/*No comment provided by engineer.*/
+"agree_to_collector_continue_text" = "Agree to Collector's Terms of Service in order to continue";
+
+/*No comment provided by engineer.*/
+"terms_link_label" = "Read Terms of Service";
+
+/*No comment provided by engineer.*/
+"deregister_upon_privacy_alert_title" = "Do you want to stop using SEQR?";
+
+/*No comment provided by engineer.*/
+"download_config_text" = "Loading settings…";
+
+/*No comment provided by engineer.*/
+"download_config_retry_error" = "Check that you have internet connectivity.";
+
+/*No comment provided by engineer.*/
+"download_config_no_network" = "Waiting for Network…";
+
+/*No comment provided by engineer.*/
+"agree_checkbox_label" = "Accept";
+
+/*No comment provided by engineer.*/
+"agree_link_label" = "Terms and Conditions";
+
+/*Collector agreement text*/
+"agree_collector_link_label" = "Collector's Terms Of Service";
+
+/****************** TO BE SORTED ******************
+ No comment provided by engineer.*/
+"button_introduction" = "Introduction";
+"activation_completed_text" = "Start by adding an account.";
+
+/*No comment provided by engineer.*/
+"ios_introduction_title" = "Introduction";
+
+/*No comment provided by engineer.*/
+"ios_introduction_to_seqr" = "How to use SEQR";
+
+/*No comment provided by engineer.*/
+"ios_download_webpage_retry_error" = "Check that you have internet connectivity.";
+
+/*No comment provided by engineer.*/
+"ios_loading_webpage_text" = "Loading Page…";
+
+/*No comment provided by engineer.*/
+"ios_download_webpage_no_network" = "Waiting for Network…";
+
+/*Back button text when moving from Add Payment Account Choice screen*/
+"ios_add_payment_choice_short_title" = "Add";
+
+/*Long description about selected payment account choice*/
+"PaymentAccountChoice_LongDescription" = "<<Long description about selected payment account choice>>";
+
+/*Header title for list of payment account choices*/
+"add_payment_choice_title_text" = "Payment Accounts";
+
+/*Section Header title Show Balance section in Settings*/
+"settings_balancesettings_sectionheader" = "Show Balance";
+
+/*Menu item in Show balance section for Main View*/
+"settings_balance_mainview" = "Main View";
+
+/*Menu item in Show balance section for Accounts View*/
+"settings_balance_accountsview" = "Accounts View";
+
+/*Menu text for On (Showing Balance in Settings)*/
+"settings_balance_on_text" = "On";
+
+/*Menu text for Off (Showing Balance in Settings)*/
+"settings_balance_off_text" = "Off";
+
+/*Progress indicator text while changing balance settings*/
+"settings_change_balance_progress_text" = "Updating…";
+
+/*text to indicate no payment accounds added*/
+"text_no_payment_accounts_added" = "Add a payment account to pay in stores and online";
+
+/*text to indicate no receival accounds added*/
+"text_no_receival_accounts_added" = "Add a receiver account to receive money \nfrom others";
+
+/*text to indicate no receival accounds added*/
+"text_no_loyalty_accounts_added" = "Add your loyalty account to get benefits automatically";
+
+/*text to show when restore button is pressed*/
+"restore_message" = "To restore access to your existing accounts sign in to \"My SEQR\" at seqr.se";
+
+/*text to show on Receive Tab*/
+"receive_title" = "Receive";
+
+/*text to show for restore accounts*/
+"restore_account_text" = "I have used SEQR before and \nlike to restore my accounts";
+
+/*text to show when all accounts have been added*/
+"accounts_added_text" = "You have added all available payment accounts. Check back later!";
+
+/*text to show when all accounts have been added*/
+"receiver_accounts_added_text" = "You have added all available receiver accounts. Check back later!";
+
+/*text to show when all loyalty accounts have been added*/
+"loyalty_accounts_added_text" = "Loyalty accounts are not available yet, but as soon as they are they can be added here.";
+
+/*text to show when no receiver accounts are available*/
+"finnish_receiveraccounts_placeholder_text" = "Receiver accounts are not available yet, but as soon as they are they can be added here.";
+
+/*Back Button text*/
+"back_button_text" = "Back";
+
+/*Restore webview screen title*/
+"restore_view_title_text" = "Restore";
+
+/*Restore webview screen title*/
+"single_transfer_limit_text" = "Per transfer:";
+
+/*Per period text*/
+"year_transfer_limit_text" = "Per year:";
+
+/*Per period text*/
+"month_transfer_limit_text" = "Per month:";
+
+/*Per period text*/
+"week_transfer_limit_text" = "Per week:";
+
+/*Per period text*/
+"day_transfer_limit_text" = "Per day:";
+
+/*Per period text*/
+"hour_transfer_limit_text" = "Per hour:";
+
+/*Per period text*/
+"total_transfer_limit_text" = "Total:";
+
+/*Message to turn wifi off*/
+"TurnOffWiFi_AlertMessage" = "The Wi-Fi seems to disturb the connection to SEQR, turn it off and try again!";
+
+/*Question for user when adding a new loyalty account*/
+"LoyaltyAccount_AddAccountQuestionText" = "Don't miss your benefits!\nConnect %@ to SEQR.\n%@";
+
+/*Question for user when replacing with another loyalty account*/
+"LoyaltyAccount_ReplaceAccountQuestionText" = "Replace my connected %@ with this one?\n%@";
+
+/*Intro section title*/
+"ios_intro_section_title" = "Introduction";
+
+/*Info section title*/
+"ios_more_info_seqr" = "More Information";
+
+/*text on Loyalty tab*/
+"loyalty_title" = "Loyalty";
+
+/*text to show when featured account image is not loaded*/
+"cannot_load_featuredimage" = "Cannot show image.";
+
+/*Alert text - account has been already added*/
+"account_already_added_text" = "You have already added this account";
+
+/*Activation Done Header Text - New User*/
+"time_to_add_account_header_text" = "Time to add an account!";
+
+/*Activation Done Message Text - New User*/
+"time_to_add_account_message_text" = "To shop with SEQR you need to add a payment account";
+
+/*Activation Done - Add Account Button*/
+"add_account_button_text" = "Add a payment account";
+
+/*Activation Done - Get Started Button*/
+"get_started_button_text" = "Get Started";
+
+/*Welcome screen hint text - Get Started Button*/
+"get_started_welcome_screen_text" = "To get started:";
+
+/*Welcome screen hint text - Start making money*/
+"welcomeHintLabel" = "Start making money today!";
+
+/*Welcome screen hint text step 1 - Get Started Button*/
+"get_started_step1_welcome_screen_text" = "1. Select country and accept Terms and Conditions";
+
+/*Welcome screen hint text step 2 - Get Started Button*/
+"get_started_step2_welcome_screen_text" = "2. Choose PIN code and register your details";
+
+/*Welcome screen hint text step 3 - Get Started Button*/
+"get_started_step3_welcome_screen_text" = "3. Add a payment account";
+
+/*Activation Done - How to use button*/
+"how_to_use_seqr_button_text" = "How to Use SEQR";
+
+/*Activation Done Header Text - Existing User*/
+"restore_profile_header_text" = "Hi Again,";
+
+/*Activation Done Message Text - Existing User*/
+"restore_profile_message_text" = "We saved your profile, restore to get back on track!";
+
+/*Activation Done - Restore Profile Button*/
+"restore_profile_button_text" = "Restore your profile";
+
+/*Activation Done - Later button*/
+"restore_later_button_text" = "Not Now";
+
+/*Activation Done - Later button*/
+"add_account_hint_top_text" = "You need to add a payment account to use SEQR. Press here to add it..";
+
+/*Activation Done - Later button*/
+"add_account_hint_bottom_text" = "... or tap here to add an account by scanning";
+
+/*P2P minimum hint - amount field*/
+"minimum_text_label" = "min";
+
+/*P2P maximum hint - amount field*/
+"maximum_text_label" = "max";
+
+/*P2P blocked - account*/
+"no_p2p_allowed_alert_message" = "The account you are using does not support sending money.";
+
+/*P2P blocked - account title*/
+"no_p2p_allowed_alert_title" = "Sending Money not available";
+
+/*Terms and Condition Alert*/
+"updated_terms_confirm_text_new" = "We have updated our terms and conditions. You need to agree before you can continue using the app.";
+
+/*Terms and Condition Alert*/
+"readTAC_button_text" = "Read terms and conditions";
+
+/*Terms and Condition Alert*/
+"later_alert_button_title" = "Later";
+
+/*Alert title when the user tries to use camera when no exists*/
+"no_camera_alert_title" = "No Camera";
+
+/*Alert message when the user tries to use camera when no exists*/
+"no_camera_alert_message" = "You need a camera for this.";
+
+/*Image Camera Capture*/
+"retake_text" = "Retake";
+
+/*Image Camera Capture*/
+"use_text" = "Use";
+
+/*Registration country list*/
+"select_country_list_hint" = "Select country of residence";
+
+/*Registration sms hint*/
+"registration_sms_hint" = "If you don’t receive an SMS you may have entered an incorrect phone number, press try again to re-enter your details.";
+
+/*Registration missing country code*/
+"registration_missing_country_code_error" = "You need to enter a country code before the mobile phone number.";
+
+/*Name of Services tab*/
+"services_tab_name" = "Services";
+
+/*Title of Services view*/
+"services_view_title" = "Services";
+
+/*Loading services message for Services view*/
+"services_view_loading_message" = "Loading services";
+
+/*Unable to load services message for Services view*/
+"services_view_unable_to_load_message" = "Unable to load services";
